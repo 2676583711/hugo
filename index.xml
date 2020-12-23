@@ -5,6 +5,38 @@
     <link>https://2676583711.github.io/hugo/</link>
     <description>Recent content on My Hugo Demo Site Test</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://2676583711.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Dec 2020 22:32:50 +0800</lastBuildDate><atom:link href="https://2676583711.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TestPost</title>
+      <link>https://2676583711.github.io/hugo/post/testpost.html</link>
+      <pubDate>Wed, 23 Dec 2020 22:32:50 +0800</pubDate>
+      
+      <guid>https://2676583711.github.io/hugo/post/testpost.html</guid>
+      <description>test create a post directory</description>
+    </item>
+    
+    <item>
+      <title>Mine</title>
+      <link>https://2676583711.github.io/hugo/mine.html</link>
+      <pubDate>Wed, 23 Dec 2020 20:54:04 +0800</pubDate>
+      
+      <guid>https://2676583711.github.io/hugo/mine.html</guid>
+      <description>this is mine md pag</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://2676583711.github.io/hugo/test.html</link>
+      <pubDate>Wed, 23 Dec 2020 20:48:51 +0800</pubDate>
+      
+      <guid>https://2676583711.github.io/hugo/test.html</guid>
+      <description>test page
+hahahahhahhahahah
+2312323132232132321
+5464561232345655
+11+120+114</description>
+    </item>
+    
   </channel>
 </rss>

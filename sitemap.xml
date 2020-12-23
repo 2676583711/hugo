@@ -3,11 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://2676583711.github.io/hugo/categories.html</loc>
+    <loc>https://2676583711.github.io/hugo/</loc>
+    <lastmod>2020-12-23T22:32:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://2676583711.github.io/hugo/</loc>
+    <loc>https://2676583711.github.io/hugo/post.html</loc>
+    <lastmod>2020-12-23T22:32:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2676583711.github.io/hugo/post/testpost.html</loc>
+    <lastmod>2020-12-23T22:32:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2676583711.github.io/hugo/mine.html</loc>
+    <lastmod>2020-12-23T20:54:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2676583711.github.io/hugo/test.html</loc>
+    <lastmod>2020-12-23T20:48:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2676583711.github.io/hugo/categories.html</loc>
   </url>
   
   <url>

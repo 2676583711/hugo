@@ -126,12 +126,6 @@
           <span class="hidden">Google+</span>
       </a>
     </section>
-    
-
-    
-    
-    
-
   </footer>
 </article>
 
@@ -148,6 +142,26 @@
     <script type="text/javascript" src="https://2676583711.github.io/hugo/js/index.js"></script>
     <script src="https://2676583711.github.io/hugo/js/particles.min.js"></script>
     <script src="https://2676583711.github.io/hugo/js/particles.js"></script>  
+
+
+<hr/>
+===============================================
+<hr/>
+<div id="comment"></div>
+  <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+  <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+  <script>
+  var gitment = new Gitment({
+    id: 'location.href', // 可选。默认为 location.href
+    owner: '2676583711',
+    repo: 'comment-depot',
+    oauth: {
+      client_id: '0cb987838037dcc73172',
+      client_secret: '5074ab698fd04b5ba1dbc3fa5dcbdba7552f67e9',
+    },
+  })
+  gitment.render('comment')
+  </script>
 
 </body>
 </html>
